@@ -2063,3 +2063,12 @@ Video | 12.0% | 4.4% | 0.53%
 
 -- Engagement and click peaks
 
+# Final Conclusion
+
+-- Engagement, clicks, shares, and comments scale with exposure but do not predict purchases.
+
+-- Conversion efficiency is the sole binding constraint.
+
+-- Creative formats and time windows that maximize engagement consistently underperform on revenue, particularly on Instagram, where high-CTR traffic skews low intent.
+
+-- Performance improves only when optimization prioritizes post-click conversion metrics over engagement-led signals.
