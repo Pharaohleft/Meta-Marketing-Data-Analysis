@@ -1,7 +1,3 @@
-# Meta-Marketing-Data-Analysis
-
-
-
 
 
 # Meta Ads Performance Analysis — Facebook vs Instagram Funnel Optimization
