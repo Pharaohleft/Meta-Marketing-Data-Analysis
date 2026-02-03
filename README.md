@@ -69,7 +69,7 @@ We’ll keep this concise and sharp:
 
 
 ## Facebook — Core Performance Signals
-
+<img width="1253" height="707" alt="1" src="https://github.com/user-attachments/assets/b31ef4dc-1fc4-4d5d-b25e-a1a11460f46b" />
 ---
 
 ### 1. Funnel Health: Strong Top & Mid, Weak Bottom
@@ -205,7 +205,7 @@ Concrete, realistic actions:
 ## Financial Risk & Opportunity Assessment
 
 ---
-<img width="1253" height="707" alt="1" src="https://github.com/user-attachments/assets/b31ef4dc-1fc4-4d5d-b25e-a1a11460f46b" />
+
 
 ### 1. Revenue Leakage at Scale (Primary Risk)
 
